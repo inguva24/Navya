@@ -1,0 +1,54 @@
+Conversation with Getint.io
+Started on August 20, 2024 at 11:11 AM Europe/Warsaw time CEST (GMT+0200)
+
+---
+
+11:11 AM | amortha@oaktreecapital.com: Unable to map the Status tab in Subtask issue type mapping on the integration
+
+11:11 AM | Fin: You will be notified here and by email (amortha@oaktreecapital.com)
+
+11:11 AM | amortha@oaktreecapital.com: Kindly help here
+
+11:12 AM | amortha@oaktreecapital.com: I didn't receive any email update
+
+11:13 AM | Mayra from Getint.io: Hi Aswini, I sent you a message about the issue and the request yesterday. Can you please check the ticket created?
+
+11:13 AM | amortha@oaktreecapital.com: Yes I'm on the same page
+
+11:13 AM | amortha@oaktreecapital.com: but it didn't worked
+
+11:13 AM | amortha@oaktreecapital.com: can I share you the screenshot
+
+11:14 AM | Mayra from Getint.io: What is the error that you receive? Please send the screenshot
+
+11:14 AM | amortha@oaktreecapital.com: yes
+
+11:15 AM | amortha@oaktreecapital.com: [Image "GETINT.PNG?expires=1724148000&signature=5aaab87433fd47a305f0eabdcdb71c98ce1d67834980a1ce2a1416d9e6a16c2f"]
+
+11:15 AM | amortha@oaktreecapital.com: Unable to find the Status field under the drop down
+
+11:15 AM | amortha@oaktreecapital.com: Right side
+
+11:17 AM | Mayra from Getint.io: On Monday the status tab must exist so the system can retrieve it. Please create a subtask and ensure that it has the field Status
+
+11:17 AM | amortha@oaktreecapital.com: ok let me check
+
+11:17 AM | amortha@oaktreecapital.com: give me 2minutes
+
+11:24 AM | Mayra from Getint.io: Sure
+
+11:25 AM | amortha@oaktreecapital.com: Do we get any ETA For Description and Attachment fields synch between JIRA and Monday.com
+
+11:28 AM | Mayra from Getint.io: Attachments are working. To ensure its sync, please use the column attachments and upload them from there: 
+ [Image "image.png?expires=1724148000&signature=7e213748d48a05ac08ab0ae9937adf7742c24f55386b73f4763e3cdf9fe58cc7&req=dSEiF893mIRaXvMW1HO4zYqu05UTkntQbTP9EH8%2BaS5h6207ieW2jluzuS2U%0Afy4T%0A"]
+
+11:29 AM | Mayra from Getint.io: As for the description, we do not have an ETA at the moment, but I have shared the request with our development for review
+
+11:29 AM | amortha@oaktreecapital.com: Ok thank you
+
+11:29 AM | Mayra from Getint.io: Is there anything else I may assist you with?
+
+11:30 AM | amortha@oaktreecapital.com: No I'm good for now thank you
+
+---
+Exported from Getint.io on August 20, 2024 at 11:30 AM Europe/Warsaw time CEST (GMT+0200)
